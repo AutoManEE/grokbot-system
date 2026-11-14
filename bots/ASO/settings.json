@@ -1,0 +1,13 @@
+{
+ "id": "ASO",
+ "kind": "assistant",
+ "c_role": "CSO",
+ "parent": "CSO",
+ "model": "qwen3:4b-instruct",
+ "temperature": 0,
+ "num_predict": 4,
+ "tools": [],
+ "outside_content": true,
+ "version": 1,
+ "s_bots": null
+}

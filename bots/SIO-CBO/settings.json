@@ -1,0 +1,16 @@
+{
+ "id": "SIO-CBO",
+ "kind": "s-suite",
+ "c_role": "CIO",
+ "parent": "AIO",
+ "model": "phi4-mini",
+ "temperature": 0,
+ "num_predict": 160,
+ "tools": [],
+ "outside_content": false,
+ "version": 1,
+ "s_bots": [
+  "SIO-CBO-1"
+ ],
+ "reviewer_model": "llama3.2:3b"
+}

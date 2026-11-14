@@ -1,0 +1,5 @@
+{
+ "note": "CAO-owned hard holds. alignment_check.is_quarantined checks this first; flow.py, gate.py request and cost_gate refuse a held role. A hold clears only when a CIO cosign AND a CSO cosign naming its hold id are recorded (scripts/held_roles.py cosign). Accident guard plus detection, not security.",
+ "holds": [],
+ "cosigns": []
+}

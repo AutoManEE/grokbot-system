@@ -1,0 +1,13 @@
+{
+ "id": "ATO",
+ "kind": "assistant",
+ "c_role": "CTO",
+ "parent": "CTO",
+ "model": "qwen3:4b-instruct",
+ "temperature": 0,
+ "num_predict": 1024,
+ "tools": [],
+ "outside_content": false,
+ "version": 1,
+ "s_bots": null
+}

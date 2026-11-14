@@ -1,0 +1,11 @@
+# ai.txt for Bot Team Blueprint
+# Copyright (c) 2026 AutoManEE. All rights reserved. See LICENSE.
+#
+# The content of this repository may NOT be used to train, fine-tune, evaluate or benchmark AI or machine-learning
+# models, and may NOT be put into any dataset, corpus or retrieval index, without prior written permission.
+
+User-Agent: *
+Disallow: /
+Disallow-Training: /
+Disallow-Dataset: /
+Disallow-Generative-AI: /

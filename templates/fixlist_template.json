@@ -1,0 +1,11 @@
+{
+ "from": "CFO",
+ "target": "AFO",
+ "issue": "What keeps missing, in one sentence",
+ "evidence": "Task ids / flow folders where it missed (at least 2)",
+ "change": {
+  "field": "prompt_append",
+  "value": "Exact text to add to the bot's prompt"
+ },
+ "test": "How the CAO will check the fix (e.g. re-run flow task X, expect Y)"
+}

@@ -1,0 +1,21 @@
+{
+ "note": "CAO-owned. Roles that skip the onboarding ack: the founding C-roles, plus roles added here after a code-graded ack PASS and a cleared hard hold (CIO+CSO cosigns in held_roles.json). Hard holds are still checked first for every role. Unreadable or missing file = nobody is onboarded (fail closed). Accident guard plus detection, not security.",
+ "source": "founding roles of this template",
+ "roles": [
+  "CBO",
+  "CIO",
+  "CFO",
+  "CTO",
+  "CMO",
+  "CSO",
+  "CAO",
+  "CPO",
+  "COO",
+  "CRO",
+  "CCO",
+  "CXO",
+  "CLO",
+  "CGO",
+  "CHO"
+ ]
+}

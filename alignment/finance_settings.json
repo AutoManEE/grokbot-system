@@ -1,0 +1,8 @@
+{
+ "_owner": "Owner only. Bots never edit this file.",
+ "read_only": true,
+ "per_request_limit": null,
+ "period_limit": null,
+ "period_days": 30,
+ "allowed_categories": []
+}

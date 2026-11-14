@@ -1,0 +1,6 @@
+{
+ "note": "gh_safe.py allowlist mode: only these repositories. Replace OWNER/REPO with your team repository. The protected repository list lives only as salted hashes in gh_safe.py. Accident guard plus detection, not security (a scoped credential is the real control).",
+ "allow": [
+  "OWNER/REPO"
+ ]
+}

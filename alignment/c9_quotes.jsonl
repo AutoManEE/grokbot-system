@@ -1,0 +1,5 @@
+# Owner quotes registry (CAO). One JSON object per line: {"id","kind":"card"|"message","quote","scope"}.
+# A quote id not listed here is UNVERIFIED and cannot be treated as approval.
+# "scope" lists the only uses a quote approves (e.g. gate:<id>, gh, hold-cosign:<ROLE>).
+# Accident guard plus detection, not security. The row below is a synthetic example.
+{"id": "t1s1", "kind": "card", "quote": "Example: approve one purchase on gate SAMPLE-1.", "source": "sample", "topic": "example", "scope": ["gate:SAMPLE-1"]}

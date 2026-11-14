@@ -1,0 +1,17 @@
+# Runtime state and generated files stay out of the repository.
+/gb_state/
+/private/
+/alignment/action_log.jsonl
+/alignment/action_log.md
+/alignment/charter_snapshot_*.md
+__pycache__/
+*.pyc
+.pytest_cache/
+# Secrets
+*.pem
+*.key
+*.env
+.env*
+*.token
+*_token
+secrets/

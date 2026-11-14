@@ -1,0 +1,16 @@
+{
+ "id": "SOO",
+ "kind": "s-suite",
+ "c_role": "COO",
+ "parent": "AOO",
+ "model": "phi4-mini",
+ "temperature": 0,
+ "num_predict": 160,
+ "tools": [],
+ "outside_content": false,
+ "version": 1,
+ "s_bots": [
+  "SOO-1"
+ ],
+ "reviewer_model": "llama3.2:3b"
+}

@@ -1,0 +1,6 @@
+{
+ "_line": "W7 CTO -> CAO cost limits",
+ "_note": "Set by the CTO within the token budget the CFO approves (W4). null = no paid cloud fallback approved yet, so over-limit or unknown-cost work waits in the CPO queue.",
+ "max_paid_turns_per_task": null,
+ "max_paid_turns_per_day_when_ollama_down": null
+}
